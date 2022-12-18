@@ -1,7 +1,7 @@
 # Module1_Challenge
 01 HTML CSS Git: Code Refactor
 
-## The Challenge
+## The Challenge 
 On-the-job ticket or feature request challenges give you starter code in a folder called Develop, which you'll modify to complete the challenge.
  In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
 
