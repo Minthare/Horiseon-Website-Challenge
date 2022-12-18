@@ -1,6 +1,9 @@
 # Module1_Challenge
 01 HTML CSS Git: Code Refactor
 
+![](./assets/images/screemshot1.png)
+![](./assets/images/Screenshot2.png)
+
 ## The Challenge 
 On-the-job ticket or feature request challenges give you starter code in a folder called Develop, which you'll modify to complete the challenge.
  In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
@@ -41,7 +44,7 @@ The closing img tag was removed
 With the research, application of concepts, and specific changes made to the files, we were able to ensure an accesible, efficient, and easy to read project.  
 
 ## Github repo link:
-https://github.com/Minthare/Module1_Challenge
+https://github.com/Minthare/Horiseon-Website-Challenge/
 
 ## Githup Pages link:
-https://minthare.github.io/Module1_Challenge/
+https://minthare.github.io/Horiseon-Website-Challenge/
