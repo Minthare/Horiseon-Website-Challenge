@@ -1,7 +1,7 @@
 # Module1_Challenge
 01 HTML CSS Git: Code Refactor
 
-![](./assets/images/screemshot1.png)
+![](./assets/images/screenshot1.png)
 ![](./assets/images/Screenshot2.png)
 
 ## The Challenge 
