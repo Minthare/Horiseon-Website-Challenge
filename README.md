@@ -27,17 +27,17 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 Changed title to "Horiseon Social Solution Services"
 
-Changed <div> to <header> tag
+Changed div to header tag
 
-Changed <div> to <nav> tag 
+Changed div to nav tag 
 
-Added <main> tag to group the main content
+Added main tag to group the main content
 
-Added <footer> tag at the bottom of the page
+Added footer tag at the bottom of the page
 
 added alt attributes for each image tag
 
-The </img> was removed
+The closing img tag was removed
 
 ## The Output
 With the research, application of concepts, and specific changes made to the files, we were able to ensure an accesible, efficient, and easy to read project.  
