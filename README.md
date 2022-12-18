@@ -29,8 +29,6 @@ Changed title to "Horiseon Social Solution Services"
 
 Changed div to header tag
 
-Changed div to nav tag 
-
 Added main tag to group the main content
 
 Added footer tag at the bottom of the page
