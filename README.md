@@ -4,7 +4,6 @@
 ## The Challenge
 On-the-job ticket or feature request challenges give you starter code in a folder called Develop, which you'll modify to complete the challenge.
  In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
-![](./assets/images/project.png)
 
 Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
