@@ -46,4 +46,4 @@ With the research, application of concepts, and specific changes made to the fil
 https://github.com/Minthare/Module1_Challenge
 
 ## Githup Pages link:
-
+https://minthare.github.io/Module1_Challenge/
