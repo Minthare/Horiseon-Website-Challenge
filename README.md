@@ -40,9 +40,9 @@ added alt attributes for each image tag
 
 The closing img tag was removed
 
-## Changes Made In HTML file
+## Changes Made In CSS file
 
-Consolidated CSS tags
+Consolidated CSS selectors
 
 ## The Output
 With the research, application of concepts, and specific changes made to the files, we were able to ensure an accesible, efficient, and easy to read project.  
